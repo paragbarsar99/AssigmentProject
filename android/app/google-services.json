@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1062485791616",
+    "project_id": "doitagain-368d3",
+    "storage_bucket": "doitagain-368d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062485791616:android:6c725caf803dcd163d6765",
+        "android_client_info": {
+          "package_name": "com.assigmentproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062485791616-upii2j3opevlvseppc44ake4c5fh4vd5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.assigmentproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1062485791616-hlveg0dc080ap9ce0u3rtje6i7educss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlxqDODrEPyac81v7Hqnh2Qd2pg6bTwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062485791616-hlveg0dc080ap9ce0u3rtje6i7educss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
